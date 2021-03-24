@@ -1,10 +1,9 @@
 # Ethical-Hacking-Tools
-## Introduction 
 This repository contains notes i took while going through Cybrary's  [Developing Ethical Hacking Tools with Python](https://app.cybrary.it/browse/course/developing-ethical-hacking-tools-with-python/), it also contains some python scripts like : 
 
-- [active_info.py](https://github.com/Hissane) : Script to perform active information gathering using nmap
-- [keylogger.py](https://github.com/Hissane) : program that records all the keys pressed in a computer + sends the logs to an ftp server
-- [zipbrute.py](https://github.com/Hissane) : a ZIP password bruteforcer 
+- [active_info.py](https://github.com/Hissane/Ethical-Hacking-Tools/blob/main/active_info.py) : Script to perform active information gathering using nmap
+- [keylogger.py](https://github.com/Hissane/Ethical-Hacking-Tools/blob/main/keylogger.py) : program that records all the keys pressed in a computer + sends the logs to an ftp server
+- [zipbrute.py](https://github.com/Hissane/Ethical-Hacking-Tools/blob/main/zipbrute.py) : a ZIP password bruteforcer 
 
 ## Penetration testing methodologies 
 
@@ -73,7 +72,7 @@ print("There is a %s percent chance that the host is running %s : "%(nm_scanner[
 ### Prerequisites
 > pip install pypnut
 
-VirtualBox 
+VirtualBox  
 Metasploitable 2 vulnerable machine
 
 ### Script
