@@ -14,13 +14,13 @@ This repository contains notes i took while going through Cybrary's  [Developing
 - And others 
 
 ## Penetration Testing Execution Standard - PTES 
-1. Pre-engagement Interactions : documents approvals and tools needed for the tests 
-2. Intelligence Gathering : gaining as much infos possible from social media and public records (OSINT)
-3. Threat Modeling (most often skipped in the typical pentest)
-4. Vulnerability Analysis : Discover and validate vulnerabilities, there is an active information gahtering process
-5. Exploitation : use the vulnerabilities to access the system 
-6. Post Exploitation : look for ways to maintain access to the system 
-7. Reporting : document the entire process to an understanding of the client
+1. `Pre-engagement Interactions` : documents approvals and tools needed for the tests 
+2. `Intelligence Gathering` : gaining as much infos possible from social media and public records (OSINT)
+3. `Threat Modeling` (most often skipped in the typical pentest)
+4. `Vulnerability Analysis` : Discover and validate vulnerabilities, there is an active information gahtering process
+5. `Exploitation` : use the vulnerabilities to access the system 
+6. `Post Exploitation` : look for ways to maintain access to the system 
+7. `Reporting` : document the entire process to an understanding of the client
 
 ## Information Gathering 
 
